@@ -1,0 +1,48 @@
+/**********************************TAG SELECTOR*************************************/
+body { background-color: #eaf6f6;}
+hr { 
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+    width: 20%;
+    }
+        
+h1 {
+    color:#3366CC;
+    
+}
+h3 {
+    color: #66BFBF;
+}
+figcaption {
+    
+    
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+/***********************************CLASS SELECTOR**********************************/
+.class1{
+    border: 5px solid #2874A6 ;
+}
+.class2{
+    border: 5px solid #2874A6 ;
+}
+
+/*********************************ID SELECTOR***************************************/
+
+#heading {
+    color: midnightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
